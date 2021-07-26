@@ -33,4 +33,4 @@ for(var i=1; i<=12; i++){
     product *= i;
 }
 
-console.log(product)
+console.log(product);
